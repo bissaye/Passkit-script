@@ -18,5 +18,14 @@ def help():
 
         1. -h/--help
         permet d'afficher l'aide
+        
+        2. -p/--path
+        permet de spécifier le chemin vers le fichier excel à utiliser
+        
+        3. -n/--name
+        permet de spécifier le nom du fichier excel en sortie 
+        
+        NB: si aucun nom de fichier n'est spécifié, le nom par defaut sera: result.xlsx
+
         """
     )
