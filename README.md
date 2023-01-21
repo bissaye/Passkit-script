@@ -7,7 +7,18 @@ un passkit pour chaque entrée, et retourne un nouveau fichier csv
 avec le statut de chaque envoie (success ou echec)**
 
 ## USAGE:
-**1.` h/--help`** <br>
+**1.` -h/--help`** <br>
 permet d'afficher l'aide
 <br>
 <br>
+**2.` -p/--path`** <br>
+permet de spécifier le chemin vers le fichier excel à utiliser
+<br>
+<br>
+**3.` -n/--name`** <br>
+permet de spécifier le nom du fichier excel en sortie <br>
+> NB: si aucun nom de fichier n'est spécifié, le nom par defaut sera: result.xlsx
+> 
+<br>
+<br>
+
