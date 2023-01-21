@@ -18,15 +18,5 @@ def help():
 
         1. -h/--help
         permet d'afficher l'aide
-
-        2. 
-                                                 *
-                                                * *
-                                               * | *
-                                              *  |  *       
-                                             *   o   *      
-                                            ***********  
-    - le fichier xlsx doit contenir les carte dans une colonne nommée : "numéro"  
-    - si les identifiants ( usr, pwd ) ne sont pas valides , les données de la carte en question ne seront pas collectées
         """
     )
