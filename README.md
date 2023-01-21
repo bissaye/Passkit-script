@@ -6,6 +6,11 @@ numero de catre, numero de pdv, nom du pdv,code pays) et d'envoyer
 un passkit pour chaque entrée, et retourne un nouveau fichier csv
 avec le statut de chaque envoie (success ou echec)**
 
+##INSTALLATION
+1. cloner le repos
+2. installer les paquets avec la commande:
+   1. `python -m pip install -r requirements.txt`
+
 ## USAGE:
 **1.` -h/--help`** <br>
 permet d'afficher l'aide
